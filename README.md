@@ -1,6 +1,6 @@
 # Physics Playground Lab — Unity/C# Portfolio Prototype
 
-A separate portfolio project based on the physics playground concepts in Casey Hardman’s *Game Programming with Unity and C#*, Chapter 33, “Physics Playground Design and Outline.”
+I built this Unity prototype to experiment with movement, forces, and Rigidbody interactions. I used Chapter 33, “Physics Playground Design and Outline,” from Casey Hardman’s *Game Programming with Unity and C#* as my starting point.
 
 ## Current vertical slice
 
