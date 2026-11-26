@@ -32,6 +32,10 @@ Click the Game view to capture the mouse. Use `WASD` to move, `SPACE` to jump or
 
 Planning concepts are informed by Casey Hardman, *Game Programming with Unity and C#*, Chapter 33, “Physics Playground Design and Outline” (2020), DOI: https://doi.org/10.1007/978-1-4842-5656-5_33. This project is an original portfolio adaptation and does not copy chapter code or assets.
 
+## License
+
+I license my original physics scripts and scene setup under the [MIT License](LICENSE). The Unity editor and the packages listed in my [package manifest](Packages/manifest.json) carry their own terms.
+
 ## Verification status
 
 This source snapshot was checked for JSON validity, Unity asset/meta pairs and scene GUID references. Unity compilation, standalone builds and gameplay were not rerun during export preparation. Historical build results and remaining checks are recorded in [VERIFICATION.md](VERIFICATION.md).
